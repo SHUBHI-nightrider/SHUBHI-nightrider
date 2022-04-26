@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHUBHI-nightrider
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python
+- 👀 I’m devloper in ...python
+- 🌱 I’m currently learning ...ML
+- 💞️ I’m looking to collaborate on ...AWS
 - 📫 How to reach me ...9970014674
 
 <!---
